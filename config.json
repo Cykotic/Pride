@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN HERE",
+  "prefix": "PREFIX HERE",
+  "db": {
+    "host": "host",
+    "username": "username",
+    "database": "database"
+  }
+}
